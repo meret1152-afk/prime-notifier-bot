@@ -1,0 +1,2 @@
+# prime-notifier-bot
+bot
